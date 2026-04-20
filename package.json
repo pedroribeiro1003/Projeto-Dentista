@@ -1,1 +1,26 @@
-{"name":"dentista-premium","private":true,"version":"0.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@tailwindcss/vite":"^4.2.2","framer-motion":"latest","lucide-react":"latest","react":"latest","react-dom":"latest"},"devDependencies":{"@tailwindcss/postcss":"latest","@vitejs/plugin-react":"latest","autoprefixer":"latest","postcss":"latest","tailwindcss":"^4.2.2","vite":"latest"}}
+{
+  "name": "dentista-premium",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^4.2.2",
+    "vite": "^5.4.10"
+  }
+}
